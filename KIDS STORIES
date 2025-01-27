@@ -1,6 +1,13 @@
-Mon Premier Projet Flowise :
+🇺🇸 This project leverages Flowise to create a basic AI agent designed to generate stories for children aged 6 to 12, aiming to explore the capabilities and tools provided by Flowise.
 
-Ce projet utilise Flowise pour créer un agent IA basique permettant de créer des histoires pour des enfants entre 6 et 12 ans, afin de découvrir les possibilités et les outils de Flowise.
+Features:
+
+- Creates an age-appropriate story and generates a title that fits the narrated story.
+- Based on OpenAI's API, utilizing the 4o-mini model.
+- Easy to set up.
+- Perfect for local early learning centers (MAMs) or small educational teams.Mon Premier Projet Flowise :
+
+🇫🇷 Ce projet utilise Flowise pour créer un agent IA basique permettant de créer des histoires pour des enfants entre 6 et 12 ans, afin de découvrir les possibilités et les outils de Flowise.
 
 Fonctionnalités :
 
@@ -8,3 +15,4 @@ Fonctionnalités :
 - Basé sur l'API d'OpenAI, utilise le modèle 4o-mini.
 - Facile à configurer.
 - Parfait pour des MAM locales ou des équipes pédagogiques réduites.
+
