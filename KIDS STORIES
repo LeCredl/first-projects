@@ -1,0 +1,10 @@
+Mon Premier Projet Flowise :
+
+Ce projet utilise Flowise pour créer un agent IA basique permettant de créer des histoires pour des enfants entre 6 et 12 ans, afin de découvrir les possibilités et les outils de Flowise.
+
+Fonctionnalités :
+
+- Créé une histoire adaptée à l'âge spécifié, puis un titre adapté à l'histoire racontée.
+- Basé sur l'API d'OpenAI, utilise le modèle 4o-mini.
+- Facile à configurer.
+- Parfait pour des MAM locales ou des équipes pédagogiques réduites.
