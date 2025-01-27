@@ -5,8 +5,7 @@
 
 My goal here is to share my learning and my progress, going from very basics LLM "Agents" to more sophisticated and useful stuff that can be useful in many businesses.
 
-1 : The StoryTeller : Generate stories for children aged 6 to 12.
-                      Créé des histoires pour enfants âgés de six à douze ans.
+1 : The StoryTeller : Generate stories for children aged 6 to 12 // Créé des histoires pour enfants âgés de six à douze ans.
 
 2 : The Social Agent : 
 ![image](https://github.com/user-attachments/assets/91edc570-d053-4b19-8e00-03c7a5d49a17)
