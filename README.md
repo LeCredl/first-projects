@@ -13,7 +13,7 @@ Mon objectif ici est de partager mon apprentissage et mes progrès, en passant d
 
 3 : Search and Reach : Gather intel about someone across internet (even on social medias), summarizes everything and makes a draft e-mail to contact them // Rassemble des informations sur une personne donnée partout sur internet (y compris les réseaux sociaux), fais un sommaire de ses trouvailles et écris un brouillon d'e-mail stocké sur le disque dur local du PC afin de contacter la personne voulue.
 
-4.
+4 : Portfolio Analyst : Analyze your portfolio composition, turns it into a graph thanks to Python and make a summary of it, stoked locally // Fais une analyse de votre portefeuille (crypto, actions, peu importe), le transforme en graphique grâce à Python (via le function calling) et écris un résumé de son analyse directement sur le PC.
 
 
 
